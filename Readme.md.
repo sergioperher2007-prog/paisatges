@@ -1,0 +1,1 @@
+docker run -d --name web1 -p 8081:80 sergioperezherrero2007/paisatge:10908000
